@@ -1,6 +1,6 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 const mnemonic =
-  "slush legend green noodle south  jacket achieve brain storm escape cotton"; // replace with your MNEMONIC
+  "slush legend green noodle south jacket achieve brain storm escape cotton"; // replace with your MNEMONIC
 
 module.exports = {
   networks: {
